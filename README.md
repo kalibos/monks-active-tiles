@@ -12,7 +12,7 @@ When a Tile is drawn on the scene, another tab will be added, called triggers.
 
 You can set the triggering to be active or not.  If the tile is inactive, then nothing happens when a token walks over it.
 Triggering of the tile can also be set to be triggered by everyone, or restricted to GM only tokens, or player only tokens.
-The trigger can fire when a token enters to tile, or when they next leave the tile.
+The trigger can fire when a token enters the tile, or when they next leave the tile.
 You can specify the chance that a tile will be triggered, so if the trap only has a 50% of working at any given time this is an option.
 
 You can then add multiple actions for Foundry to take when a tile is triggered.
